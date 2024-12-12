@@ -1,5 +1,4 @@
-# Unity-Platformer-Episode-15
-In this episode we'll add the ability to pause the game and a pause menu with some cool options like changing the volume of the sounds and music. We'll also discuss regions and PlayerPrefs.
-https://www.youtube.com/watch?v=2pk1PPlS5Xs&ab_channel=Pandemonium
+# 2D-game-unity
+please note that you need Unity version 2020.3.38f1 to be able to run the project without any issue
 
-➤ Support the channel on Patreon: https://www.patreon.com/pandemonium_games
+➤ you can download it via this [link](unityhub://2020.3.38f1/8f5fde82e2dc)
